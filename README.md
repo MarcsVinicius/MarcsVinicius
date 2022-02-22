@@ -1,10 +1,10 @@
-### 🤔 Sobre 🤔
+<h3> 🤔 Sobre 🤔 </h3>
 **Olá, Eu sou o [Marcos Vinicius](marcsvinicius.github.io/). 👋 Desenvolvedor fullStack do Brasil, Rio de janeiro** <br>
 **Eu estudo na @betrybe** <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true)
+<a href="https://github.com/MarcsVinicius"> https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true </a>
 
-### 📱 Social 📱
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvalencar/)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/MarcsVinicius)
+<h3> 📱 Social 📱 </h3>
+<a href="https://www.linkedin.com/in/marcosvalencar/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >/> </a>
+<a href="https://github.com/MarcsVinicius"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" >/> </a>
 
