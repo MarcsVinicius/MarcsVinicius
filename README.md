@@ -1,12 +1,14 @@
 <h3> 🤔 Sobre 🤔 </h3>
 <strong> Olá, Eu sou o <a href="marcsvinicius.github.io/"> Marcos Vinicius</a>. 👋 Desenvolvedor fullStack do Brasil, Rio de janeiro </strong> <br>
-<strong> Eu estudo na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong>
+<strong> Eu estudo na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong> <br>
 <strong> Meu <a href="marcsvinicius.github.io"> portifólio </a> </strong>
 <br>
 <br>
 <a href="https://github.com/MarcsVinicius"> <img src="https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true" /> </a>
 
 <h3> Conhecimentos basicos </h3>
+ <br>
+ <br>
 ✔️ Unix and Bash <br>
 ✔️ Git and Github <br>
 ✔️ Html <br>
