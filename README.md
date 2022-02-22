@@ -1,6 +1,6 @@
 <h3> 🤔 Sobre 🤔 </h3>
-**Olá, Eu sou o [Marcos Vinicius](marcsvinicius.github.io/). 👋 Desenvolvedor fullStack do Brasil, Rio de janeiro** <br>
-**Eu estudo na @betrybe** <br>
+<strong> Olá, Eu sou o [Marcos Vinicius](marcsvinicius.github.io/). 👋 Desenvolvedor fullStack do Brasil, Rio de janeiro** </strong> <br>
+<strong> Eu estudo na @betrybe </strong>
 
 <a href="https://github.com/MarcsVinicius"> https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true </a>
 
