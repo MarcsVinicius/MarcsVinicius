@@ -7,18 +7,13 @@
 <a href="https://github.com/MarcsVinicius"> <img src="https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true" /> </a>
 
 <h3> Conhecimentos basicos </h3>
- <br>
- <br>
 ✔️ Unix and Bash <br>
 ✔️ Git and Github <br>
 ✔️ Html <br>
 ✔️ CSS <br>
 ✔️ Javascript <br>
-✔️ Api consumption <br>
-
+✔️ Api consumption
 <h3> 💻 Front End 💻 </h3>
-<br>
-<br>
 ✔️ React componenets <br>
 ✔️ React events and forms <br>
 ✔️ React Router <br> 
