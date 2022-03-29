@@ -17,8 +17,8 @@
 ✔️ React componenets <br>
 ✔️ React events and forms <br>
 ✔️ React Router <br> 
-✔️ React Componenets lifecycle <br>
-✔️ Agile methoods <br>
+✔️ React Components lifecycle <br>
+✔️ Agile methods <br>
 ✔️ React testing library <br>
 ✔️ React redux <br>
 ✔️ Context api <br>
