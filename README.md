@@ -14,7 +14,7 @@
 ✔️ Javascript <br>
 ✔️ Api consumption
 <h3> 💻 Front End 💻 </h3>
-✔️ React componenets <br>
+✔️ React components <br>
 ✔️ React events and forms <br>
 ✔️ React Router <br> 
 ✔️ React Components lifecycle <br>
