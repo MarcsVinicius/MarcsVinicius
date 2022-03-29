@@ -12,7 +12,7 @@
 ✔️ Html <br>
 ✔️ CSS <br>
 ✔️ Javascript <br>
-✔️ Api consumption
+✔️ Api consuming
 <h3> 💻 Front End 💻 </h3>
 ✔️ React components <br>
 ✔️ React events and forms <br>
