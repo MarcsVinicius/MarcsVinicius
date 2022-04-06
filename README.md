@@ -1,30 +1,36 @@
-<h3> 🤔 Sobre 🤔 </h3>
+
+<h2 align='center' > 🤔 Sobre mim 🤔 </h2>
 
 <strong> Olá, Eu sou o <a href="marcsvinicius.github.io/"> Marcos Vinicius</a>. 👋 Desenvolvedor fullStack do Brasil, Rio de janeiro </strong> <br>
 
-<strong> Eu estudo na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong> <br>
+<strong> Eu estudo na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong>
 
 <strong>Videos dos projetos no <a href="https://www.linkedin.com/in/marcosvalencar/"> Linkedin </a></strong>
 
-<a href="https://github.com/MarcsVinicius"> <img src="https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true" /> </a>
+<a href="https://github.com/MarcsVinicius"> <img src="https://github-readme-stats.vercel.app/api?username=marcsvinicius&count_private=true&theme=react" /> </a>
 
 <h3> Conhecimentos basicos </h3>
-✔️ Unix and Bash <br>
-✔️ Git and Github <br>
-✔️ Html <br>
-✔️ CSS <br>
-✔️ Javascript <br>
-✔️ Api consuming
+<ul>
+  <li> ✔️ Unix and Bash </li>
+  <li> ✔️ Git and Github </li>
+  <li> ✔️ Html </li>
+  <li> ✔️ CSS </li>
+  <li> ✔️ Javascript </li>
+  <li> ✔️ Api consuming </li>
+</ul>
+
 <h3> 💻 Front End 💻 </h3>
-✔️ React components <br>
-✔️ React events and forms <br>
-✔️ React Router <br> 
-✔️ React Components lifecycle <br>
-✔️ Agile methods <br>
-✔️ React testing library <br>
-✔️ React redux <br>
-✔️ Context api <br>
-✔️ React Hooks <br>
+<ul>
+  <li> ✔️ React components </li>
+  <li> ✔️ React events and forms </li>
+  <li> ✔️ React Router </li> 
+  <li> ✔️ React Components lifecycle </li>
+  <li> ✔️ Agile methods </li>
+  <li> ✔️ React testing library </li>
+  <li> ✔️ React redux </li>
+  <li> ✔️ Context api </li>
+  <li> ✔️ React Hooks </li>
+</ul>
 
 
 <h3> 📱 Social 📱 </h3>
