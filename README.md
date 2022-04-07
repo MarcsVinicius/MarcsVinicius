@@ -32,6 +32,17 @@
   <li> ✔️ React Hooks </li>
 </ul>
 
+<h3> 💻 Back End 💻 </h3>
+<ul>
+  <li> ✔️ Docker </li>
+  <li> ✔️ Mysql </li>
+  <li> ⌛ Node.js </li>
+  <li> ⌛ Typescript </li>
+  <li> ⌛ POO </li>
+  <li> ⌛ Nosql </li>
+  <li> ⌛ MongoDB </li>
+</ul>
+
 
 <h3> 📱 Social 📱 </h3>
 <a href="https://www.linkedin.com/in/marcosvalencar/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
