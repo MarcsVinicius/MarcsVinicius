@@ -39,8 +39,8 @@
   <li> ✔️ Node.js </li>
   <li> ✔️ Typescript </li>
   <li> ✔️ POO </li>
-  <li> ⌛ Nosql </li>
-  <li> ⌛ MongoDB </li>
+  <li> ✔️ Nosql </li>
+  <li> ✔️ MongoDB </li>
 </ul>
 
 
