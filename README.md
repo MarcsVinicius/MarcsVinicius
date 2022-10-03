@@ -2,7 +2,7 @@
 
 <h2 align='center' > 🤔 Sobre mim 🤔 </h2>
 
-<strong> Olá 👋, Bem-vindo ao meu GitHub, aqui posto meus projetos pessoais. <br/>  <img align="right" width ="400" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif"/>
+<strong> Olá 👋, Bem-vindo ao meu GitHub, aqui posto meus projetos pessoais. <br/>  <img align="right" width ="300" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif"/>
 
 Eu sou o <a href="marcsvinicius.github.io/"> Marcos Vinicius</a>.  
 Desenvolvedor FullStack do Brasil, Rio de janeiro.</strong>
