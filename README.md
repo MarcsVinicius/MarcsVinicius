@@ -6,7 +6,7 @@
 
 Eu sou o <a href="marcsvinicius.github.io/"> Marcos Vinicius</a>.  
 Desenvolvedor FullStack do Brasil, Rio de janeiro.</strong> <br>
-<strong> Eu estudo na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong>
+<strong> Eu estudei na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong>
 
 <strong>Videos dos projetos no <a href="https://www.linkedin.com/in/marcosvalencar/"> Linkedin </a></strong>
 
