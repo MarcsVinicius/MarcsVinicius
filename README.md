@@ -3,7 +3,7 @@
 <strong> Olá 👋, Bem-vindo ao meu GitHub, aqui posto meus projetos pessoais. <br/>  <img align="right" width ="300" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif"/>
 
 Eu sou o <a href="marcsvinicius.github.io/"> Marcos Vinicius</a>.  
-Desenvolvedor Back-end do Brasil, Rio de janeiro.</strong> <br>
+Desenvolvedor Back-end e front do Brasil, Rio de janeiro.</strong> <br>
 <strong> Eu estudei na <a href="https://www.linkedin.com/school/betrybe/"> @betrybe </a></strong>
 
 <strong>Videos dos projetos no <a href="https://www.linkedin.com/in/marcosvalencar/"> Linkedin </a></strong>
